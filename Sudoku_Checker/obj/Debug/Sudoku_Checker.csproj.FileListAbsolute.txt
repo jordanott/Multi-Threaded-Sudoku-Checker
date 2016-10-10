@@ -1,0 +1,9 @@
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\bin\Debug\Sudoku_Checker.exe.config
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\bin\Debug\Sudoku_Checker.exe
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\bin\Debug\Sudoku_Checker.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\obj\Debug\Sudoku_Checker.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\obj\Debug\Sudoku_Checker.Form1.resources
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\obj\Debug\Sudoku_Checker.Properties.Resources.resources
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\obj\Debug\Sudoku_Checker.csproj.GenerateResource.Cache
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\obj\Debug\Sudoku_Checker.exe
+c:\users\jordan\documents\visual studio 2015\Projects\Sudoku_Checker\Sudoku_Checker\obj\Debug\Sudoku_Checker.pdb
